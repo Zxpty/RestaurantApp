@@ -17,7 +17,7 @@ class MenuActivity : AppCompatActivity() {
 
 
     }
-    fun navigateToSeeCart(){
+    private fun navigateToSeeCart(){
         val intent = Intent(this,MainActivity::class.java)
         startActivity(intent)
     }
