@@ -11,7 +11,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="420dp"
+        android:layout_height="423dp"
         app:srcCompat="@drawable/violetalogo" />
 
     <TextView
@@ -33,7 +33,7 @@
         android:text="@string/menu"
         android:textAlignment="center"
         android:textColor="#DCDDDD"
-        android:textSize="14sp"
+        android:textSize="18sp"
         android:textStyle="bold" />
 
     <LinearLayout
